@@ -12,4 +12,4 @@ Setup:
 2) Start the Flask server by running the __init__.py file.
 3) Application is running, just hit the URL and you are in.
 
-## Note: The API keys are account specific, please generate a new one if API's don't get loaded.
+#### Note: The API keys are account specific, please generate a new one if API's don't get loaded.
